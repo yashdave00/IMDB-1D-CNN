@@ -1,4 +1,4 @@
-# IMDB-1D-CNN
+# IMDB-1D-CNN(Accuracy=97.3%)
 Training a 1 dimensional CNN using the IMDB movie review dataset 
 
 loss: 0.0746
